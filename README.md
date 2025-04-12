@@ -1,1 +1,1 @@
-# telethon-control-account
+# weatherbot
